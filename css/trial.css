@@ -55,6 +55,13 @@ section .row img {
   width: 100%;
 }
 
+.square1 {
+  background: url("../heic0114a.jpg") no-repeat center center;
+  background-size: cover;
+  height: 300px;
+  text-align: center;
+}
+
 .col-md-6 {
   margin: 0 0 30px;
 }
