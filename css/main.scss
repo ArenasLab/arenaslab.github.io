@@ -1,3 +1,211 @@
+/*********************************************************/
+/*       Style Sheet for the Uhlén Lab's homepage        */
+/*                 Per Uhlen, 2015-03-29                 */
+/*********************************************************/
+
+/* @import must be at top of file, otherwise CSS will not work @import url("//hello.myfonts.net/count/2dc755"); */
+
+/* @import must be at top of file, otherwise CSS will not work @import url("//hello.myfonts.net/count/2dd86c"); */
+
+@font-face {
+		font-family: 'HelveticaNeueLTStd-Th';
+		src: url('webfonts/2DC755_0_0.eot');
+		src: url('webfonts/2DC755_0_0.eot?#iefix') format('embedded-opentype'),
+			 url('webfonts/2DC755_0_0.woff2') format('woff2'),
+			 url('webfonts/2DC755_0_0.woff') format('woff'),
+			 url('webfonts/2DC755_0_0.ttf') format('truetype');
+}
+
+@font-face {
+		font-family: 'HelveticaNeueLT-Light';
+		src: url('webfonts/2DD86C_0_0.eot');
+		src: url('webfonts/2DD86C_0_0.eot?#iefix') format('embedded-opentype'),
+		url('webfonts/2DD86C_0_0.woff2') format('woff2'),
+		url('webfonts/2DD86C_0_0.woff') format('woff'),
+		url('webfonts/2DD86C_0_0.ttf') format('truetype');
+}
+
+<style type="text/css">
+<!--
+
+/* background format */
+body { 
+		background: #FFFFFF;
+		color: #000000;
+		font-family: HelveticaNeueLT-Light; 
+		font-size: 18px; 
+		line-height: 1.5;
+}
+html {
+    overflow-y: scroll;
+}
+
+/* HEADERS */
+/* large header */
+h1 {  
+		font-size: 50px;
+		font-weight: normal;
+		font-style: normal;
+		margin-top: 22px;
+		margin-bottom: 22px;
+}
+/* medium header */
+h2 {  
+		font-size: 24px;
+		font-weight: normal;
+		font-style: normal;
+		margin-top: 24px;
+		margin-bottom: 12px;
+}
+/* small header */
+h3 {  
+		font-size: 20px;
+		font-weight: normal;
+		font-style: normal;
+		margin-top: 0px;
+		margin-bottom: 5px;
+
+}
+
+
+/* TABLE FORMATS */
+/* normal table font */
+td {
+		background: #FFFFFF;
+		color: #000000;
+		font-family: HelveticaNeueLT-Light; 
+		font-size: 18px; 
+		line-height: 1.5;
+}
+/* upper meny */
+td.meny {
+		font-size: 18px; 
+		text-align: center;
+		width: 125px;
+		cursor: hand; 
+}
+/* footer meny */
+td.footermeny {
+	  color: #888888;
+		font-size: 15px;
+		text-align: center;
+}
+/* contact list, cell */
+td.image {
+		align: left;
+		width: 100px;
+}
+/* contact list, name */
+td.name {
+		text-align: left;
+		vertical-align: top;
+		width: 250px;
+}
+/* contact list, phone */
+td.contact {
+		text-align: left;
+		vertical-align: top;
+		width: 270px;
+}
+/* contact list, phone */
+td.project {
+		text-align: left;
+		font-size: 16px;
+		vertical-align: top;
+    width: 380px;
+}
+/* address */
+td.address {
+		text-align: left;
+		vertical-align: top;
+		width: 500px;
+}
+/* date */
+td.date {
+		color: #888888;
+		font-size: 15px;
+		text-align: center;
+}
+/* copyright */
+td.copyright {
+		color: #888888;
+		font-size: 15px;
+		text-align: center;
+}
+
+
+/* NORMAL LINKS */
+/* normal link color */
+a:link {
+		color: #888888;
+		text-decoration: none;
+}
+/* normal link color visited */
+a:visited {
+		color: #888888;
+		text-decoration: none;
+
+}
+/* normal link color active */
+a:active {
+		color: #888888;
+		text-decoration: none;
+}
+/* normal link color hover */
+a:hover {  		
+		color: #888888; 
+		text-decoration: none;
+}
+
+
+/* UPPER MENY */
+/* upper meny link color */
+a.menylink:link {
+		color: #888888;
+		text-decoration: none;
+}
+/* upper meny link color visited */
+a.menylink:visited {
+		color: #888888;
+		text-decoration: none;
+}
+/* upper meny link color active */
+a.menylink:active {
+		color: #888888;
+		text-decoration: underline;
+}
+/* upper meny link color hover */
+a.menylink:hover {  		
+		color: #888888; 
+		text-decoration: underline;
+}
+
+
+/* LINKS TO THE GROUPS */
+/* group link color */
+a.grouplinks:link {
+		color: #888888;
+		text-decoration: none;
+}
+/* group link color visited */
+a.grouplinks:visited {
+		color: #888888;
+		text-decoration: none;
+}
+/* group link color active */
+a.grouplinks:active {
+		color: #888888;
+		text-decoration: underline;
+}
+/* group link color hover */
+a.grouplinks:hover {  		
+		color: #888888; 
+		text-decoration: underline;
+}
+
+-->
+</style>
+/*
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
@@ -51,3 +259,4 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+*/
