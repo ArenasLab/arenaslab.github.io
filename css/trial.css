@@ -61,7 +61,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  /* background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg'); */
+  background-image: img<Title_VM.svg>; 
   background-size: cover;
   color: #870052;
   height: 500px;
