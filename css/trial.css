@@ -85,7 +85,16 @@ section .row img {
   width: 100%;
 }
 
-.square1 {
+.news {
+  
+}
+
+.introduction {
+  display: flex;
+  width: 60%;
+}
+
+.square_link {
   background: url("../heic0114a.jpg") no-repeat center center;
   background-size: 50%;
   height: 300px;
@@ -106,6 +115,7 @@ section .row img {
   text-transform: uppercase;
 }
 
+/* Refers to removed attribures that were in title
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
@@ -118,6 +128,7 @@ section .row img {
   color: #ffffff;
   background-color: #fbd1d5;
 }
+*/
 
 .btn-secondary {
   background-color: #E8DFE0;
