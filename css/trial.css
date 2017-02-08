@@ -88,6 +88,21 @@ section .row img {
 .news {
   
 }
+.news .posts { list-style-type: none; }
+
+.news .posts li { margin-bottom: 30px; }
+
+.news .posts .post-link {
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.news .posts .post-date {
+  display: block;
+  font-size: 15px;
+  color: #818181;
+}
 
 .introduction {
   display: flex;
