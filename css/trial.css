@@ -85,6 +85,19 @@ section .row img {
   width: 100%;
 }
 
+/* testing wrap content (start) */
+
+.wrap:before,
+.wrap:after { content:""; display:table; }
+.wrap:after { clear: both; }
+.wrap {
+  max-width: 800px;
+  padding: 0 30px;
+  margin: 0 auto;
+  zoom: 1;
+}
+
+/* (end) wrap testing */
 .news {
   
 }
