@@ -105,8 +105,7 @@ section .row img {
 }
 
 .introduction {
-  display: flex;
-  width: 60%;
+  
 }
 
 .square_link {
