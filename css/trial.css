@@ -63,6 +63,7 @@ section .row img {
   border: 2px solid #000000;
   position: relative;
   top: 100px;
+  padding: 30px;
 }
 
 .col-md-6 {
