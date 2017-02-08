@@ -61,10 +61,18 @@ section .row img {
   height: 300px;
   text-align: center;
   border: 2px solid #000000;
+  position: relative;
+  top: 100px;
 }
 
 .col-md-6 {
   margin: 0 0 30px;
+}
+
+.btn_square {
+  color: #333;
+  font-size: 70px;
+  text-transform: uppercase;
 }
 
 .btn.btn-primary {
