@@ -61,7 +61,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url("Title_VM.jpg"); 
+  /* background-image: url("Title_VM.jpg"); */ 
   background-size: cover;
   color: #870052;
   height: 500px;
