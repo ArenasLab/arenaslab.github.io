@@ -32,7 +32,8 @@ header p {
 */
 
 .navigation {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: #e6e6e6;
+  /* background-color: rgba(255, 255, 255, 0.9); */
   height: auto;
   width: 100%;
   text-align: center;
@@ -152,6 +153,7 @@ section .row img {
 footer {
   font-size: 12px;
   padding: 20px 0;
+  background-color: #e6e6e6;
 }
 
 footer .col-sm-8 {
