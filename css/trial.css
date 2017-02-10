@@ -32,7 +32,7 @@ header p {
 */
 
 .navigation {
-  background-color: #e6e6e6;
+  background-color: rgba(230, 230, 230, 0.9);
   /* background-color: rgba(255, 255, 255, 0.9); */
   height: auto;
   width: 100%;
