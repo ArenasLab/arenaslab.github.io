@@ -32,7 +32,7 @@ header p {
 */
 
 .navigation {
-  background-color: rgba(230, 230, 230, 0.9);
+  background-color: rgba(230, 230, 230, 0.95);
   height: auto;
   width: 100%;
   text-align: center;
@@ -64,8 +64,8 @@ header p {
   background-image: url("../img/NES.jpg");
   background-size: cover;
   color: #870052;
-  height: 500px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
+  height: 450px;
+  text-shadow: 0.5px 0.5px 0.5px #000000;
 }
 
 .jumbotron h2 {
