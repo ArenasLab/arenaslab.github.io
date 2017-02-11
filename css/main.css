@@ -59,11 +59,12 @@ header p {
 
 
 .jumbotron {
+  font-family: 'Roboto', sans-serif;
   display: flex;
   align-items: center;
   background-image: url("../img/NES.jpg");
   background-size: cover;
-  color: #870052;
+  color: #FFF;
   height: 450px;
   text-shadow: 0.5px 0.5px 0.5px #000000;
 }
@@ -121,16 +122,6 @@ section .row img {
   
 }
 
-.square_link {
-  background: url("../heic0114a.jpg") no-repeat center center;
-  background-size: 50%;
-  height: 300px;
-  text-align: center;
-  border: 2px solid #000000;
-  position: relative;
-  top: 100px;
-  padding: 30px;
-}
 
 .col-md-6 {
   margin: 0 0 30px;
