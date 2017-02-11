@@ -34,7 +34,7 @@ header p {
 .navigation {
   background-color: rgba(230, 230, 230, 0.95);
   height: auto;
-  width: 100%;
+  width: 120%;
   text-align: center;
   position: fixed;
   left: 0;
@@ -51,7 +51,7 @@ header p {
   display: inline-block;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  font-weight: 100;
+  font-weight: 200;
   letter-spacing: 2px;
   margin: 20px;
   text-transform: uppercase;
