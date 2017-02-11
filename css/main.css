@@ -34,7 +34,7 @@ header p {
 .navigation {
   background-color: rgba(230, 230, 230, 0.95);
   height: auto;
-  width: 120%;
+  width: 100%;
   text-align: center;
   position: fixed;
   left: 0;
