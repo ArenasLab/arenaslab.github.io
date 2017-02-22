@@ -46,6 +46,17 @@ header {
   text-shadow: 0.5px 0.5px 0.5px #000000;
 }
 
+.jumbotron2 {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  background-image: url("../img/Res.jpg");
+  background-size: cover;
+  color: #FFF;
+  height: 300px;
+  text-shadow: 0.5px 0.5px 0.5px #000000;
+}
+
 .jumbotron h2 {
   font-size: 60px;
   font-weight: 700;
