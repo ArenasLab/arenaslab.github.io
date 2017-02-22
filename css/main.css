@@ -52,7 +52,7 @@ header {
   align-items: center;
   background-image: url("../img/RES.jpg");
   background-size: 100% auto;
-  background-repeat: no-repeat
+  background-repeat: no-repeat;
   color: #FFF;
   height: 300px;
   text-shadow: 0.5px 0.5px 0.5px #000000;
