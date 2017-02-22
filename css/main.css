@@ -51,7 +51,7 @@ header {
   display: flex;
   align-items: center;
   background-image: url("../img/RES.jpg");
-  background-size: cover;
+  background-size: 100% 100%;
   background-repeat: no-repeat
   color: #FFF;
   height: 300px;
