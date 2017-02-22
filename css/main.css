@@ -50,10 +50,10 @@ header {
   font-family: 'Roboto', sans-serif;
   display: flex;
   align-items: center;
-  background-image: url("../img/Rese.jpg");
+  background-image: url("../img/RES.jpg");
   background-size: cover;
   color: #FFF;
-  height: 300px;
+  height: 350px;
   text-shadow: 0.5px 0.5px 0.5px #000000;
 }
 
