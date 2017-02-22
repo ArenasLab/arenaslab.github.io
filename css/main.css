@@ -58,6 +58,12 @@ header {
   text-shadow: 0.5px 0.5px 0.5px #000000;
 }
 
+jumbotron3 {
+    background-image: url("../img/RES.jpg");
+    background-position: center top;
+    background-size: 100% auto;
+}
+
 .jumbotron h2 {
   font-size: 60px;
   font-weight: 700;
