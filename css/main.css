@@ -56,7 +56,8 @@ header {
   
   background-repeat: no-repeat;
   color: #FFF;
-  height: 350px;
+  padding-top: 20%;
+  /* height: 350px; */
   /* text-shadow: 0.5px 0.5px 0.5px #000000; */
 }
 
