@@ -50,7 +50,8 @@ header {
   /* font-family: 'Roboto', sans-serif; */
   display: flex;
   align-items: center;
-  background-image: url("../img/RES.jpg");
+  background: url("../img/RES.jpg");
+  /* background-image: url("../img/RES.jpg"); */
   background-size: 100% 100%;
   /* background-size: 100% auto; */
   background-repeat: no-repeat;
