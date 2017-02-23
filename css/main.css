@@ -52,11 +52,11 @@ header {
   align-items: center;
   background: url("../img/RES.jpg");
   /* background-image: url("../img/RES.jpg"); */
-  background-size: 100% 100%;
-  /* background-size: 100% auto; */
+  background-size: 100% auto;
+  
   background-repeat: no-repeat;
   color: #FFF;
-  /* height: 350px; */
+  height: 350px;
   /* text-shadow: 0.5px 0.5px 0.5px #000000; */
 }
 
