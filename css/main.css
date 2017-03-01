@@ -62,6 +62,7 @@ header {
   background: url("../img/pub.jpg");
   background-size: 75% auto;
   background-repeat: no-repeat;
+  background-position: center;
   color: #FFF;
   padding-top: 20%;
 }
