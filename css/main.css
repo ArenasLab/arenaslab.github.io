@@ -111,7 +111,7 @@ section .row img {
 }
 .news .posts { list-style-type: none; }
 
-.news .posts li { margin-bottom: 30px; }
+.news .posts li { margin-bottom: 10px; }
 
 .news .posts .post-link {
   font-size: 24px;
