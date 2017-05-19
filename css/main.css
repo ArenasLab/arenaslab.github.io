@@ -94,8 +94,8 @@ section .row img {
 }
 
 #featureimage img {
-  margin: auto
-  display: block
+  margin: auto;
+  display: block;
 }
 
 /* testing wrap content (start) */
