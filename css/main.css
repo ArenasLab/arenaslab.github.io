@@ -93,6 +93,11 @@ section .row img {
   width: 100%;
 }
 
+img2 {
+  margin: auto
+  display: block
+}
+
 /* testing wrap content (start) */
 
 .wrap:before,
