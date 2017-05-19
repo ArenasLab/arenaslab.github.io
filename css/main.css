@@ -93,7 +93,7 @@ section .row img {
   width: 100%;
 }
 
-img {
+#featureimage img {
   margin: auto
   display: block
 }
