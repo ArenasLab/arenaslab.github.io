@@ -1,4 +1,4 @@
 # arenaslab.github.io
-Arenas Lab web page
+Ernest Arenas Lab web page
 
 http://ernestarenaslab.org/
